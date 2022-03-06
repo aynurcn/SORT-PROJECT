@@ -2,10 +2,10 @@
 insertion sort project
 
 ##First Part => Stages
-[22, 27, 16, 2, 18, 6] => n process
-[2, 27, 16, 22, 18, 6] => (n - 1) process
-[2, 6, 16, 22, 18, 27] => (n - 2) process
-[2, 6, 16, 18, 22, 27] end...
+[22, 27, 16, 2, 18, 6] => n process &nbsp;
+[2, 27, 16, 22, 18, 6] => (n - 1) process &nbsp;
+[2, 6, 16, 22, 18, 27] => (n - 2) process &nbsp;
+[2, 6, 16, 18, 22, 27] end... &nbsp;
 
 ---
 ##Second Part => Big O Notation
