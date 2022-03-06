@@ -9,6 +9,7 @@ insertion sort project
 
 ##Second Part => Big O Notation
 
+---
 n + (n -1) + (n - 2) + ... + 1 = [n * (n + 1)] / 2
 (n^2 + n) / 2 => dominant function = n^2
 => O(n^2)
